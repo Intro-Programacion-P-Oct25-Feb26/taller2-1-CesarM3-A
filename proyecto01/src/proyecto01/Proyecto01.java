@@ -14,6 +14,8 @@ public class Proyecto01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+       System.out.println("La universidad Tecnica Particular de loja se encuentra ubicada en las calles"+
+       "San cayetano alto, con direccion calle marcelino champagnat");
         // TODO code application logic here
     }
     
